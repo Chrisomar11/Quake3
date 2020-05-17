@@ -13,6 +13,7 @@ export CLOUDSDK_PYTHON=/System/Library/Frameworks/Python.framework/Versions/2.7/
 # Para Ubuntu: apt-get install wget
 
 # Si no tienes el pak0.pk3, lo descargará
+# No se incluye el pak0.pk3 en este repositorio porque esta bajo licencia, se recomienda obtenerlo directamente desde el CD-ROM original.
 PAK0=./baseq3/pak0.pk3
 if [ -f "$PAK0" ]; then
     echo "$PAK0 ya lo tienes..."
