@@ -32,6 +32,9 @@ $ bash create-quake3-server-cloud.sh
 * Conseguir pak0.pk3: https://github.com/nrempel/q3-server/blob/master/baseq3/pak0.pk3
 
 ## Deploy (en GCP)
+* Instalar gcloud (es requisito para los siguientes puntos): 
+  * MacOS: https://cloud.google.com/sdk/docs/quickstart-macos?hl=es-419
+  * Windows: https://cloud.google.com/sdk/docs/quickstart-windows?hl=es-419
 * Construir Cluster K8s
 * Construir una deployment.yaml y service.yaml
 * Jugar :)
