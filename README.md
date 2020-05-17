@@ -18,3 +18,13 @@
 * Construir una deployment.yaml y service.yaml
 * Jugar :)
 
+## Ver el video con la explicación detallada
+  https://youtube.com/
+
+## Como instalar todo esto?
+* Ya esta todo listo, solo necesitas tener una cuenta de GCP y créditos.
+* Luego creas el cluster y ejecutar el siguiente comando:
+```
+$ bash create-quake3-server-cloud.sh
+```
+
