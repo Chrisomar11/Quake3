@@ -10,8 +10,10 @@
 
 ## Como instalar todo esto?
 * Ya tienes casi todo lo necesario en este repositorio, solo necesitas tener una cuenta de GCP y créditos (usa la cuenta gratuita de GCP).
-* Luego creas el cluster y ejecuta el siguiente comando:
+* Luego creas el cluster y ejecuta el siguiente comando (clona el repositio y ejecuta el bash):
 ```
+$ git clone https://github.com/freddylarag/quake3-server.git
+$ cd quake3-server
 $ bash create-quake3-server-cloud.sh
 ```
 
