@@ -1,9 +1,19 @@
-# ¿Cómo montar un servidor de Quake3 Arena?
-# Docker / Kubernetes / Google Cloud Platform
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/freddylarag/quake3-server/master/quake3.png" alt="ioQuake3 Arena">
 </p>
+
+# Instalar servidor de Quake3 Arena
+# Docker / Kubernetes / Google Cloud Platform
+
+## Ver el video con la explicación detallada
+  https://youtube.com/
+
+## Como instalar todo esto?
+* Ya tienes casi todo lo necesario en este repositorio, solo necesitas tener una cuenta de GCP y créditos (usa la cuenta gratuita de GCP).
+* Luego creas el cluster y ejecuta el siguiente comando:
+```
+$ bash create-quake3-server-cloud.sh
+```
 
 ## Instalar quake3 Arena (en tu pc)
 * Instrucciones para Mac Catalina: https://github.com/diegoulloao/ioquake3-mac-install
@@ -18,13 +28,5 @@
 * Construir una deployment.yaml y service.yaml
 * Jugar :)
 
-## Ver el video con la explicación detallada
-  https://youtube.com/
 
-## Como instalar todo esto?
-* Ya esta todo listo, solo necesitas tener una cuenta de GCP y créditos.
-* Luego creas el cluster y ejecutar el siguiente comando:
-```
-$ bash create-quake3-server-cloud.sh
-```
 
