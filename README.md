@@ -2,8 +2,9 @@
   <img src="https://raw.githubusercontent.com/freddylarag/quake3-server/master/quake3.png" alt="ioQuake3 Arena">
 </p>
 
-# Instalar servidor de Quake3 Arena
-# Docker / Kubernetes / Google Cloud Platform
+<center> <h1>Instalar servidor de Quake3 Arena</h1> </center>
+<center> <h1>Docker / Kubernetes / Google Cloud Platform</h1> </center> 
+  
 
 ## Ver el video con la explicación detallada
   https://youtube.com/
@@ -16,7 +17,8 @@ $ git clone https://github.com/freddylarag/quake3-server.git
 $ cd quake3-server
 $ bash create-quake3-server-cloud.sh
 ```
-
+  
+    
 # Referencias
 
 ## Instalar quake3 Arena (en tu pc)
