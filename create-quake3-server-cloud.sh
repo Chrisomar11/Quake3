@@ -11,6 +11,7 @@ export CLOUDSDK_PYTHON=/System/Library/Frameworks/Python.framework/Versions/2.7/
 
 # Para MacOS:  brew install wget
 # Para Ubuntu: apt-get install wget
+
 # Si no tienes el pak0.pk3, lo descargará
 PAK0=./baseq3/pak0.pk3
 if [ -f "$PAK0" ]; then
